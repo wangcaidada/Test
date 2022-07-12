@@ -79,9 +79,9 @@
 -- t[3] = nil
 -- print(#t)
 
--- --12.[table.insert(t,#t+1,10)]
+-- --12.[table.insert(t,10)]
 -- local t = {1,2,3,3,5,3,6}
--- table.insert(t,#t+1,10)
+-- table.insert(t,10)
 
 -- --13.[table.remove(t,1)]
 -- local t = {1,2,3,3,5,3,6}
